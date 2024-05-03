@@ -10,7 +10,8 @@ import android.app.Activity
 import android.util.Log
 import com.facebook.react.bridge.Callback
 
-class Loader(reactContext: ReactApplicationContext) : ReactContextBaseJavaModule(reactContext) {
+class Loader(reactContext: ReactApplicationContext) 
+: ReactContextBaseJavaModule(reactContext) {
     override fun getName(): String {
         return "Loader"
     }

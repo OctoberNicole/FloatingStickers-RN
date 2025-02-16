@@ -1,2 +1,4 @@
-# RN Floating Stickers
-An android app diaplaying floating stickers on camera view embedded as native module in React Native project.
+# _RN Floating Stickers_
+
+
+> An Android Application for displaying floating stickers on a camera view embedded as native module for React Native project.
